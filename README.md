@@ -11,7 +11,7 @@ Each skill is a folder with a single `SKILL.md` (YAML frontmatter + Markdown). T
 | [`clean-code`](skills/clean-code/SKILL.md) | My Clean Code for the AI era: musts, light-touch rules, and what to ignore. Includes daily habits like early returns. | draft |
 | [`solid`](skills/solid/SKILL.md) | SOLID as a decision guide: when each principle pays off and when it is over-engineering. | draft |
 | [`self-documenting-code`](skills/self-documenting-code/SKILL.md) | Names and structure do the explaining. Comments only when the code cannot say it. | draft |
-| [`code-style`](skills/code-style/SKILL.md) | Formatting and styling preferences. | skeleton, needs your input |
+| [`code-style`](skills/code-style/SKILL.md) | Formatting and styling preferences. | mostly done, small TODO(owner) left |
 | [`communication-style`](skills/communication-style/SKILL.md) | How the agent talks to you: language, length, tone, ambiguity. | interviewed |
 | [`architecture-defaults`](skills/architecture-defaults/SKILL.md) | Project structure, layering and dependency policy for TS/Node, React/Next.js, Python. | interviewed |
 | [`commit-and-pr-style`](skills/commit-and-pr-style/SKILL.md) | Conventional Commits, small frequent commits, one PR per feature. | interviewed |
