@@ -13,7 +13,7 @@ Each skill is a folder with a single `SKILL.md` (YAML frontmatter + Markdown). T
 | [`self-documenting-code`](skills/self-documenting-code/SKILL.md) | Names and structure do the explaining. Comments only when the code cannot say it. | draft |
 | [`code-style`](skills/code-style/SKILL.md) | Formatting and styling preferences. | mostly done, small TODO(owner) left |
 | [`communication-style`](skills/communication-style/SKILL.md) | How the agent talks to you: language, length, tone, ambiguity. | interviewed |
-| [`architecture-defaults`](skills/architecture-defaults/SKILL.md) | Project structure, layering and dependency policy for TS/Node, React/Next.js, Python. | interviewed |
+| [`architecture-defaults`](skills/architecture-defaults/SKILL.md) | Project structure, layering and dependency policy for TS/Node, React/Next.js, Python. | mostly done, small TODO(owner) left |
 | [`commit-and-pr-style`](skills/commit-and-pr-style/SKILL.md) | Conventional Commits, small frequent commits, one PR per feature. | interviewed |
 
 "draft" means the content is a first pass written from the brief. Edit it until it says what you actually believe.
